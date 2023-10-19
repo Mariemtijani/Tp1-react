@@ -14,9 +14,9 @@ function Calculatore (){
        }
 
     const tapecar=(e)=>{
-        let oldval=statment;
-        let newval=oldval+e.target.value;
-        setStatment(newval);
+        let firstValue=statment;
+        let newValue=firstValue+e.target.value;
+        setStatment(newValue);
     }
 
     const result=()=>{

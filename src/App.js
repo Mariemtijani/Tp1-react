@@ -1,6 +1,5 @@
 import './App.css';
-import Calc from './compenents/Calc';
-import Calculatore from './compenents/Calculatore'
+import Calculatore from './compenents/Calculatore';
 
 
 function App() {
