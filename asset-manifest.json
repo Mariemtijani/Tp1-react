@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mariemtijani/Tp1-react.git/static/css/main.7532b31d.css",
+    "main.js": "/Mariemtijani/Tp1-react.git/static/js/main.6df7ab7d.js",
+    "static/js/787.42fdeb1a.chunk.js": "/Mariemtijani/Tp1-react.git/static/js/787.42fdeb1a.chunk.js",
+    "index.html": "/Mariemtijani/Tp1-react.git/index.html",
+    "main.7532b31d.css.map": "/Mariemtijani/Tp1-react.git/static/css/main.7532b31d.css.map",
+    "main.6df7ab7d.js.map": "/Mariemtijani/Tp1-react.git/static/js/main.6df7ab7d.js.map",
+    "787.42fdeb1a.chunk.js.map": "/Mariemtijani/Tp1-react.git/static/js/787.42fdeb1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7532b31d.css",
+    "static/js/main.6df7ab7d.js"
+  ]
+}
