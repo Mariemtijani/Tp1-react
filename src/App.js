@@ -7,8 +7,8 @@ function App() {
   
   return (
     <div className="App">
-      {/* <Calculatore/> */}
-      <ArracComp/>
+      <Calculatore/>
+      
     </div>
   );
 }
